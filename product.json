@@ -1,0 +1,94 @@
+[
+    {
+        "id": 1,
+        "name": "Zebronics Headphones",
+        "price": 1299,
+        "image": "headphone1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Amazon-Basics Headphones",
+        "price": 1599,
+        "image": "headphone2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Boat Headphones",
+        "price": 1899,
+        "image": "headphone3.jpeg"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Dell G15 5530 Gaming Laptop",
+        "price": 148000,
+        "image": "delllap.jpg"
+    },
+    {
+        "id": 5,
+        "name": "HP Victus Gaming Laptop",
+        "price": 57000,
+        "image": "hplap1.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Lenovo Legion Slim 5 ",
+        "price": 112000,
+        "image": "lenevolap1.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Kreo Hive Anti-ghosting Gaming Keyboard ",
+        "price": 2999,
+        "image": "key1.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Redragon K530 Pro",
+        "price": 4499,
+        "image": "key2.jpg"
+    },
+    {
+        "id": 9,
+        "name": "MageGee Portable 60% Mechanical",
+        "price": 2249,
+        "image": "key3.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Logitech G402",
+        "price": 2400,
+        "image": "m1.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Ant Esports GM320 ",
+        "price": 599,
+        "image": "m2.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Razer DeathAdder",
+        "price": 1399,
+        "image": "m3.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Samsung 27-inch Monitor",
+        "price": 15899,
+        "image": "mon1.jpg"
+    },
+    {
+        "id": 14,
+        "name": "ZEBRONICS 24-inch Monitor",
+        "price": 8999,
+        "image": "mon2.webp"
+    },
+    {
+        "id": 15,
+        "name": "Samsung 32-Inch Monitor",
+        "price": 19499,
+        "image": "mon3.jpg"
+    }
+    
+]
